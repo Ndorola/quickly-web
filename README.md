@@ -27,14 +27,14 @@ npm start
 ## Tecnologías 🛠️
 Este proyecto fue realizado por las siguientes tecnologías
 
->- React - Librería de Frontend
->- CSS - Lenguaje de estilos
->- Redux - Librería para manejo del estado
->- Node - Entorno de ejecución para JavaScript
->- Express - Framework para Backend
->- MongoDB - Base de datos
->- Mongoose - Framework para modelado de base de datos
->- Socket - Framework para controlar datos en tiempo real
+>- [React](https://reactjs.org/) - Librería de Frontend
+>- [CSS](https://developer.mozilla.org/es/docs/Web/CSS) - Lenguaje de estilos
+>- [Redux](https://es.redux.js.org/) - Librería para manejo del estado
+>- [Node](https://nodejs.org/es/) - Entorno de ejecución para JavaScript
+>- [Express](https://expressjs.com/es/) - Framework para Backend
+>- [MongoDB](https://www.mongodb.com/) - Base de datos
+>- [Mongoose](https://mongoosejs.com/) - Framework para modelado de base de datos
+>- [Socket](https://socket.io/) - Framework para controlar datos en tiempo real
 
 ## Desarrollado por 🤓
 
